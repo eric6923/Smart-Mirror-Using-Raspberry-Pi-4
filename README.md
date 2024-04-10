@@ -10,7 +10,6 @@ Welcome to the documentation for our Smart Mirror project powered by Raspberry P
 4. [Setup Instructions](#setup-instructions)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 
@@ -39,7 +38,6 @@ To set up the Smart Mirror project on your Raspberry Pi 4, follow these steps:
 3. **Configure APIs:** Obtain API keys for the time and weather APIs and configure them in the project.
 4. **Run the Application:** Execute the main Python script to launch the Smart Mirror application.
 
-For detailed setup instructions, refer to the [Setup Guide](setup.md).
 
 ## Usage
 
@@ -47,8 +45,6 @@ Once the Smart Mirror project is set up and running on your Raspberry Pi 4, you 
 
 - **View Real-time Information:** Glance at the mirror interface to see real-time time and weather updates.
 - **Personalized Greetings:** Stand in front of the mirror to trigger facial recognition and receive personalized greetings based on the time of day.
-
-For more information on how to use the Smart Mirror project, refer to the [User Guide](user-guide.md).
 
 ## Contributing
 
@@ -59,6 +55,4 @@ Contributions to the Smart Mirror project are welcome! To contribute, please fol
 3. Make your changes and ensure they adhere to the project's coding style and guidelines.
 4. Submit a pull request with a detailed description of your changes.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
